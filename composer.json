@@ -1,5 +1,5 @@
 {
-  "name": "psignoret/aad-sso-wordpress",
+  "name": "kopepasah/aad-sso-wordpress",
   "description": "Single Sign-on with Azure Active Directory (for WordPress)",
   "type": "wordpress-plugin",
   "require": {
